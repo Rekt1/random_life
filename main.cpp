@@ -4,7 +4,6 @@
 #include <time.h>
 
 using namespace std;
-//srand (time(NULL));
 
 string rnd_name()
 {
